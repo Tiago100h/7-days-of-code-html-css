@@ -63,3 +63,26 @@ button {
   background-color: var(--main-color);
   color: white
 }
+
+header {
+  padding: 6rem 10rem;
+  height: 10rem;
+}
+
+header span {
+  color: var(--main-color);
+  font-weight: 600;
+}
+
+header h1 {
+  color: var(--title-color);
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+header p {
+  color: var(--text-color);
+  text-align: center;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+}
